@@ -61,6 +61,7 @@
 		4A927E3F21DF5A4100EAD340 /* APIGnomeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A927E3E21DF5A4100EAD340 /* APIGnomeList.swift */; };
 		4A927E4221DF675900EAD340 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A927E4021DF675800EAD340 /* LaunchScreen.xib */; };
 		6B6064BE490BEEECDEEF790A /* Pods_ALBaseTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1A56DB8AD4AF51D1C72F5FD /* Pods_ALBaseTests.framework */; };
+		D11D911CDC0101230D07A1C9 /* Pods_ALBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A8D6B194916BF2CC22B5C78 /* Pods_ALBase.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -152,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3961B9C39FC03B9CDB79DEF9 /* Pods_ALBase.framework in Frameworks */,
+				D11D911CDC0101230D07A1C9 /* Pods_ALBase.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
