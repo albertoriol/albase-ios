@@ -1,0 +1,57 @@
+{
+  "Brastlewark": [
+    {
+      "id": 0,
+      "name": "Tobus Quickwhistle",
+      "thumbnail": "invalidURL",
+      "age": 306,
+      "weight": 39.06,
+      "height": 107.75,
+      "hair_color": "Pink",
+      "professions": [
+        "Metalworker",
+        "Woodcarver",
+        "Stonecarver",
+        " Tinker",
+        "Tailor",
+        "Potter"
+      ],
+      "friends": [
+        "Cogwitz Chillwidget",
+        "Tinadette Chillbuster"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Fizkin Voidbuster",
+      "thumbnail": "",
+      "age": 288,
+      "weight": 35.27,
+      "height": 110.43,
+      "hair_color": "Green",
+      "professions": [
+        "Brewer",
+        "Medic",
+        "Prospector",
+        "Gemcutter",
+        "Mason",
+        "Tailor"
+      ],
+      "friends": []
+    },
+    {
+      "id": 2,
+      "name": "Ecki Fussspackle",
+      "thumbnail": "",
+      "age": 260,
+      "weight": 44.89405,
+      "height": 94.40361,
+      "hair_color": "Black",
+      "professions": [],
+      "friends": [
+        "Kinthony Tinkslicer",
+        "Fizwood Chillrivet"
+      ]
+    }
+  ]
+}
