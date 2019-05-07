@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.8.0)
+  - EasyPeasy (1.8.0)
+  - iOSSnapshotTestCase (5.0.2):
+    - iOSSnapshotTestCase/SwiftSupport (= 5.0.2)
+  - iOSSnapshotTestCase/Core (5.0.2)
+  - iOSSnapshotTestCase/SwiftSupport (5.0.2):
+    - iOSSnapshotTestCase/Core
+  - Kingfisher (5.0.1)
+  - KRActivityIndicatorView (3.0.0)
+  - KRProgressHUD (3.4.0):
+    - KRActivityIndicatorView (= 3.0.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.0)
+  - EasyPeasy (= 1.8.0)
+  - iOSSnapshotTestCase (= 5.0.2)
+  - Kingfisher (= 5.0.1)
+  - KRProgressHUD (= 3.4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - EasyPeasy
+    - iOSSnapshotTestCase
+    - Kingfisher
+    - KRActivityIndicatorView
+    - KRProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  EasyPeasy: bfffe5d47bbaaef3e32888c250a196768484b43a
+  iOSSnapshotTestCase: 2d51aa06775e95cecb0a1fb9c5c159ccd1dd4596
+  Kingfisher: 4f771421b9208185217550528a06fd48756cb7c2
+  KRActivityIndicatorView: c414000730a6f4969eeb354bee4f2aebc89c2c2e
+  KRProgressHUD: 79c8703f82179fe34b3602f10b30726f887983fa
+
+PODFILE CHECKSUM: f9e0fc7bdcfea7927ddcd20503cbae27270403eb
+
+COCOAPODS: 1.6.1

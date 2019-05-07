@@ -1,0 +1,33 @@
+//
+//  Created by Albert Oriol
+//  Copyright © 2019 Albert. All rights reserved.
+//
+
+// General
+"general_ok" = "Ok";
+"general_retry" = "Retry";
+"general_close" = "Close";
+"general_save" = "Save";
+
+// Gnome gnomeList
+"gnome_list_title" = "My Gnomes";
+
+// Filters
+"gnome_list_filter_title" = "Filter";
+
+// Detail
+"gnome_detail_weight_title" = "Weight";
+"gnome_detail_height_title" = "Height";
+"gnome_detail_hair_color_title" = "Hair color";
+"gnome_detail_professions_title" = "Professions";
+"gnome_detail_friends_title" = "Friends";
+"gnome_detail_no_profession" = "Without any profession";
+"gnome_detail_no_friends" = "I have no friends, leave me alone";
+
+// Error
+"error_offline_access_title" = "You are offline";
+"error_offline_access_message" = "Impossible to connect to the server";
+"error_server_timeout_title" = "Server timeout";
+"error_server_timeout_message" = "Server down? :(";
+"error_dialog_error_title" = "Unexpected error";
+"error_dialog_error_message" = "Something bad happened";
